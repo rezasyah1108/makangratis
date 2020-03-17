@@ -1,14 +1,13 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("black"," ===========================\n");
-echo color("black","| by : Reza |\n");
-echo color("black","| Vocer 15rb + 10rb|\n");
-echo color("black","| SKRIP GRATIS BUKAN UNTUK DIJUAL|\n");
+echo "\e            GOJEK VERSION 1.8.4              \n";
+echo "\e SCRIPT GOJEK 15&10k REZA HARDIANSYAH\n";
+echo "\n";
 echo color("blue","|JANGAN SERAKAH TETAP SEDEKAH|\n");
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
-echo " ===========================\n";
 
+$ cowsay -f dragon "JANGAN DISALAH GUNAKAN" | lolcat
 // function change(){
         $nama = nama();
         $email = str_replace(" ", "", $nama) . mt_rand(100, 999);
