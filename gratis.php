@@ -1,11 +1,11 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-<blink>echo color("red"," ===========================\n");
-echo color("red","| by : Reza |\n");
-echo color("red","| Vocer 15rb + 10rb|\n");
-echo color("green","| SKRIP GRATIS BUKAN UNTUK DIJUAL|\n");
-echo color("red","| JANGAN SERAKAH TETAP SEDEKAH|\n"); </blink>
+echo color("black"," ===========================\n");
+echo color("black","| by : Reza |\n");
+echo color("black","| Vocer 15rb + 10rb|\n");
+echo color("black","| SKRIP GRATIS BUKAN UNTUK DIJUAL|\n");
+echo color("blue","|<blink> JANGAN SERAKAH TETAP SEDEKAH|\n"); </blink>
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
