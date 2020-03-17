@@ -1,13 +1,11 @@
 <?php
 date_default_timezone_set('Asia/Jakarta');
 include "function.php";
-echo color("red"," ===========================\n");
-echo color("red","| by : GERY SATRIADI|\n");
-echo color("red","| Auto daftar dan redeem gojek |\n");
-echo color("red","| WA :085760666427|\n");
-echo color("red","| FB:www.facebook.com/geryk1|\n");
-echo color("red","| GWANGZHOU PUNYA CRITA          |\n");
-echo "| Version : Pertamina      |\n";
+<blink>echo color("red"," ===========================\n");
+echo color("red","| by : Reza |\n");
+echo color("red","| Vocer 15rb + 10rb|\n");
+echo color("green","| SKRIP GRATIS BUKAN UNTUK DIJUAL|\n");
+echo color("red","| JANGAN SERAKAH TETAP SEDEKAH|\n"); </blink>
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
