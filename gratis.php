@@ -5,7 +5,7 @@ echo color("black"," ===========================\n");
 echo color("black","| by : Reza |\n");
 echo color("black","| Vocer 15rb + 10rb|\n");
 echo color("black","| SKRIP GRATIS BUKAN UNTUK DIJUAL|\n");
-echo color("blue","|<blink> JANGAN SERAKAH TETAP SEDEKAH|\n"); </blink>
+echo color("blue","|JANGAN SERAKAH TETAP SEDEKAH|\n");
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
 
